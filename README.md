@@ -1,2 +1,1 @@
-# set-up
-A Complete Setup with Everything YOU NEED TO USING WITH KAITUN
+# Emulator [LDPlayer 9 - Lite]
